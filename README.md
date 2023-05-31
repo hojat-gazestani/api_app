@@ -3,7 +3,7 @@
 * Microservice project toturail
 
 ```bash
-git clone https://github.com/hojat-gazestani/api_app.git
+git clone https://github.com/hojat-gazestani/api_app.git && cd api_app
 
 source ./api_env/bin/activate
 cd api_project
